@@ -1,0 +1,7 @@
+{
+  "name": "org-chart-canvas",
+  "version": "1.0.0",
+  "main": "electron/main.cjs",
+  "description": "组织架构画布",
+  "author": "org-chart"
+}

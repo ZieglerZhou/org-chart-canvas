@@ -7,10 +7,20 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
+
+# Build outputs
 dist
 dist-ssr
+dist_electron
+release
 *.local
+
+# Portable/built artifacts - too large for git
+portable/electron-runtime/
+组织架构画布/
+*.zip
 
 # Editor directories and files
 .vscode/*
